@@ -5,4 +5,4 @@
 
 When the game is finished the user is asked to play again or not. If he/she chooses to play again, numbers are scrambled using Math.random. Also each time the page is refeshed, numbers are selected randomly and the timer is displayed as well. 
 
-![ImgName](https://github.com/uendihoxha/15PuzzleGame/blob/master/15puzzle/puzzle.PNG)
+![ImgName](https://github.com/uendicode/15PuzzleGame/blob/master/15puzzle/puzzle.PNG)
